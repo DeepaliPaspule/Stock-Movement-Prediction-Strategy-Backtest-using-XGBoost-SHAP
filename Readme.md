@@ -67,5 +67,5 @@ This notebook is a personal exploration of stock price movement prediction using
 
 ## 🤝 Contributing
 
-- Suggestions, forks, and PRs are welcome! If you have a better strategy, visualization, or model, feel free to share it.
+- Suggestions, forks, and PRs are welcome! If you have a better strategy or model, feel free to share it.
 
