@@ -7,7 +7,7 @@ This notebook is a personal exploration of stock price movement prediction using
 - Analyze AAPL stock data (2020–2023) using Python and Yahoo Finance
 - Engineer meaningful features like technical indicators and log returns
 - Apply regression models (Random Forest, Gradient Boosting, XGBoost) to predict next-day closing prices
-- Use classification models to predict direction (up/down) of stock price
+- Use classification models to predict direction of stock price
 - Design a basic trading strategy based on predictions and backtest its profitability
 - Use SHAP for interpretability to understand which features influenced predictions most
 
